@@ -96,3 +96,17 @@ E:\Work\Projects\InternshipProjects\Telnet\Projects\API_PreFinal\obj\Debug\netco
 E:\Work\Projects\InternshipProjects\Telnet\Projects\API_PreFinal\obj\Debug\netcoreapp2.2\API_Test.RazorTargetAssemblyInfo.cache
 E:\Work\Projects\InternshipProjects\Telnet\Projects\API_PreFinal\obj\Debug\netcoreapp2.2\API_Test.dll
 E:\Work\Projects\InternshipProjects\Telnet\Projects\API_PreFinal\obj\Debug\netcoreapp2.2\API_Test.pdb
+E:\Work\projects\leave-app-backend\bin\Debug\netcoreapp2.2\API_Test.deps.json
+E:\Work\projects\leave-app-backend\bin\Debug\netcoreapp2.2\API_Test.runtimeconfig.json
+E:\Work\projects\leave-app-backend\bin\Debug\netcoreapp2.2\API_Test.runtimeconfig.dev.json
+E:\Work\projects\leave-app-backend\bin\Debug\netcoreapp2.2\API_Test.dll
+E:\Work\projects\leave-app-backend\bin\Debug\netcoreapp2.2\API_Test.pdb
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.csprojAssemblyReference.cache
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.csproj.CoreCompileInputs.cache
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.RazorAssemblyInfo.cache
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.RazorAssemblyInfo.cs
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.AssemblyInfoInputs.cache
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.AssemblyInfo.cs
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.RazorTargetAssemblyInfo.cache
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.dll
+E:\Work\projects\leave-app-backend\obj\Debug\netcoreapp2.2\API_Test.pdb

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\Projects\\InternshipProjects\\Telnet\\Projects\\API_PreFinal\\API_Test.csproj": {}
+    "E:\\Work\\projects\\leave-app-backend\\API_Test.csproj": {}
   },
   "projects": {
-    "E:\\Work\\Projects\\InternshipProjects\\Telnet\\Projects\\API_PreFinal\\API_Test.csproj": {
+    "E:\\Work\\projects\\leave-app-backend\\API_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\Projects\\InternshipProjects\\Telnet\\Projects\\API_PreFinal\\API_Test.csproj",
+        "projectUniqueName": "E:\\Work\\projects\\leave-app-backend\\API_Test.csproj",
         "projectName": "API_Test",
-        "projectPath": "E:\\Work\\Projects\\InternshipProjects\\Telnet\\Projects\\API_PreFinal\\API_Test.csproj",
-        "packagesPath": "C:\\Users\\Afef\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\Projects\\InternshipProjects\\Telnet\\Projects\\API_PreFinal\\obj\\",
+        "projectPath": "E:\\Work\\projects\\leave-app-backend\\API_Test.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\projects\\leave-app-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Afef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
