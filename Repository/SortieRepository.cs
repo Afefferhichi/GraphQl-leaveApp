@@ -34,9 +34,9 @@ namespace API_Test.Repository
         public Sortie UpdateSortie(Sortie dbSortie, Sortie sortie)
         {
             dbSortie.SortieState = sortie.SortieState;
-            _context.Entry(sortie).State = EntityState.Modified;
+            _context.Entry(dbSortie).State = EntityState.Modified;
             _context.SaveChangesAsync();
-          
+
             return dbSortie;
         }
     }
